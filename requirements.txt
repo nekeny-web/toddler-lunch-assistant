@@ -1,0 +1,10 @@
+# Toddler Lunch Planning Assistant
+# Python 3.8+
+
+# Core dependencies (minimal for MVP)
+# No external dependencies needed for v1 - uses only Python stdlib
+
+# For future versions:
+# google-cloud-speech  # For real voice transcription (not in v1)
+# firebase-admin       # For cloud data storage (not in v1)
+# pytest               # For testing (not in v1)
